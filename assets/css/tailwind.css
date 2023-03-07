@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-gray overflow-x-hidden;
+}
+
+.action-button {
+  @apply p-3 bg-teal-400 text-gray rounded font-bold transition-all duration-500 inline-block uppercase;
+}
+
+.action-button:hover {
+  @apply bg-teal-200;
+}
+
+section h3 {
+  @apply text-teal-300 text-3xl font-bold;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  background-image: linear-gradient(to right, rgba(129, 230, 217, 1), rgba(129, 230, 217, 0.75), rgba(129, 230, 217, 0));
+}
+
+.highlight {
+  @apply text-teal-300 font-bold;
+}
+
+@media (min-width: 768px) {
+  hr {
+    width: 50%;
+  }
+
+  section h3 {
+    @apply text-5xl;
+  }
+}

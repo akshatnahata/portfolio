@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ref1",
+    "quote": "Akshat joined our team as a student developer at the early dawn of Algobanao. Whilst completing his bachelor of engineering he kept on working with us for more than 2 years. During these two years, Akshat became an indispensable part of our team as he never ceased to amaze me with his broad skillset across different disciplines of application development as well as his motivation to continuously improve our application.",
+    "author": "Mukul Jain, co-founder, Algobanao",
+    "authorImage": "mukul2.jpg"
+  },
+  {
+    "id": "ref2",
+    "quote": "Our collaboration with Akshat started as he and his fellow students came to do their internship at algod. Akshat worked on a challenging software development project with excellent results. Since then, we have been pleased to continue our fruitful cooperation in software development and maintenance. Akshat has remarkable problem solving, project management, and teamwork skills.",
+    "author": "Mihir Karandikar",
+    "authorImage": "mihir2.jpg"
+  }
+]

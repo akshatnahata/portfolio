@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "description": "I'm a freelance software engineer based in IIT Indore who is passionate about building challenging (web)applications. Get in touch!"
+  },
+  "actions": {
+    "getInTouch": "Get in touch"
+  },
+  "header": {
+    "headtitle": "Hello, my name is",
+    "subtitle1": "I write <span class=\"text-teal-300 font-bold\">code</span>",
+    "subtitle2": "build <span class=\"text-teal-300 font-bold\">software</span>",
+    "subtitle3": "<span class=\"text-teal-300 font-bold\">solutions</span>.",
+    "subline": "I'm a freelance software engineer based in IIT Indore who is passionate about building challenging (web)applications."
+  },
+  "services": {
+    "title": "Services",
+    "service1": {
+      "title": "Software Development",
+      "content": "Starting from scratch or adding features/maintaining existing projects. Both solo or as an extra asset for your existing team. Preferably backend, but I'm not discouraged by doing frontend as well."
+    },
+    "service2": {
+      "title": "Analysis",
+      "content": "Do you have an idea for a (web)application, but don't know where to start or how to develop it yourself? I can help you by translating your needs to developer terms."
+    },
+    "service3": {
+      "title": "DevOps",
+      "content": "Tired of doing manual deploys? I can write CI/CD pipelines to automate the deploys of your application. I have experience in the three major cloud providers: AWS, GCP and Azure."
+    }
+  },
+  "aboutMe": {
+    "title": "About me",
+    "paragraph1": "From an early age I developed a taste for everything that involved computers.",
+    "paragraph2": "I was very eager to start studying basic computer programming, networking and hardware in high school. To pursue my passion I then decided to enroll at <span class=\"highlight\">Indian Institute of Technology College in Indore</span>, where I earned a <span class=\"highlight\">Bachelor's Degree </span> with a focus on <span class=\"highlight\">Application Development and Economics</span>.",
+    "paragraph3": "My experience includes <span class=\"highlight\">backend, frontend and deployment aspects of the development cycle</span>. Although I have a slight preference for the first, I will definitely not be discouraged by the other two.",
+    "paragraph4": "I believe that my greatest strength is the <span class=\"highlight\">ability to adapt quickly to new technologies</span>, which is required in an innovative and dynamic sector. The challenge to stay up to date with the newest technologies and trends and gain knowledge on them, is what appeals most to me in the job.",
+    "paragraph5": "Below <span class=\"highlight\">I compiled a list of technologies</span> I feel confident in. Altough I previously dealt with various other computer technologies, it's nearly impossible to list all of them.",
+    "paragraph6": "My other interests:<br/><br/>Apart from writing code, I play chess in my spare time. I also love travelling and hiking. My favorite travel story is probably the time I lived in Bangalore for 6 months during my internship/working there."
+  },
+  "contact": {
+    "title": "Contact",
+    "success": "Message succesfully submitted!",
+    "paragraph": "Do you have an idea for a new website or app? Do you want to make modifications on your existing software? If you're looking for someone as an addition to your dev team or someone to help you realize one of your software projects, please send me a message via the form below (or contact me via one of my socials).",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "company": "Company",
+    "email": "E-mail",
+    "message": "Message",
+    "send": "Send"
+  },
+  "error": {
+    "required": "Please fill in all the required fields",
+    "email": "Please fill in a valid email address",
+    "unknown": "Something went wrong. Please try again later."
+  },
+  "footer": {
+    "viewOn": "view this site on"
+  }
+}

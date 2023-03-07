@@ -1,0 +1,388 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Akshat Nahata",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "akshatnahata05@gmail.com",
+    "phone": "+91 8989496800",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Indore",
+      "countryCode": "IND",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/akshatnahata"
+      },
+      {
+        "network": "GitHub",
+        "username": "akshatnahata",
+        "url": "https://github.com/akshatnahata"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SkyeBase",
+      "logo": "skyebase-logo.png",
+      "location": "Antwerp, BE",
+      "description": "",
+      "position": "Software Engineer",
+      "url": "https://skyebase.be",
+      "startDate": "2021-10-18",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Building a next-gen, smart, asset inspection platform"],
+      "technologies": ["NuxtJS", "AWS", "PostgreSQL"],
+      "icons": ["nuxt", "typescript", "docker", "aws", "postgresql"]
+    },
+    {
+      "name": "Norsepower",
+      "logo": "norsepower-logo.png",
+      "location": "Helsinki (remote), FI",
+      "description": "",
+      "position": "Software Engineer",
+      "url": "https://norsepower.com",
+      "startDate": "2021-05-01",
+      "endDate": "2022-01-31",
+      "summary": "",
+      "highlights": [
+        "Maintenance + adding new features to performance simulator",
+        "Build new application to virtualize Rotor Sails on a ship based on input & configuration parameters"
+      ],
+      "technologies": [
+        ".NET Core 3.1",
+        "C",
+        "NuxtJS",
+        "Python",
+        "Git",
+        "Docker",
+        "Azure",
+        "RabbitMQ",
+        "PostgreSQL + PostGIS"
+      ],
+      "icons": [
+        "golang",
+        "nuxt",
+        "csharp",
+        "docker",
+        "postgresql",
+        "rabbitmq",
+        "azure"
+      ]
+    },
+    {
+      "name": "Be-Mobile",
+      "logo": "bemobile-logo.png",
+      "location": "Melle, BE",
+      "description": "",
+      "position": "Software Engineer",
+      "url": "https://be-mobile.com/",
+      "startDate": "2021-03-15",
+      "endDate": "2021-09-30",
+      "summary": "",
+      "highlights": [
+        "Adding new major features to FlowCheck product of Be-Mobile (frontend).",
+        "Building a new golang microservice to do some datapreprocessing"
+      ],
+      "technologies": ["Vue", "Golang", "Docker", "Git", "Kafka"],
+      "icons": [
+        "vue",
+        "javascript",
+        "docker",
+        "kubernetes",
+        "jenkins",
+        "golang"
+      ]
+    },
+    {
+      "name": "JC Software Solutions",
+      "logo": "jcsoftware-logo.png",
+      "location": "Belgium, BE",
+      "description": "",
+      "position": "Founder",
+      "url": "https://jc-software.solutions",
+      "startDate": "2021-02-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Started the freelance life 🚀"],
+      "technologies": [],
+      "icons": []
+    },
+    {
+      "name": "Norsepower",
+      "logo": "norsepower-logo.png",
+      "location": "Helsinki, FI",
+      "description": "",
+      "position": "Software Engineer",
+      "url": "https://norsepower.com",
+      "startDate": "2020-11-01",
+      "endDate": "2020-12-21",
+      "summary": "",
+      "highlights": [
+        "Expanded simulator",
+        "Build a simplified, visual appealing simulator to put on the landing page"
+      ],
+      "technologies": [
+        ".NET Core 3.1",
+        "C",
+        "NuxtJS",
+        "Python",
+        "Git",
+        "Docker",
+        "Azure",
+        "RabbitMQ",
+        "PostgreSQL + PostGIS"
+      ],
+      "icons": [
+        "csharp",
+        "c",
+        "python",
+        "nuxt",
+        "docker",
+        "postgresql",
+        "rabbitmq",
+        "azure"
+      ]
+    },
+    {
+      "name": "Norsepower",
+      "logo": "norsepower-logo.png",
+      "location": "Helsinki, FI",
+      "description": "",
+      "position": "SE Intern",
+      "url": "https://norsepower.com",
+      "startDate": "2020-08-17",
+      "endDate": "2020-10-23",
+      "summary": "",
+      "highlights": [
+        "Build performance simulator backend & frontend",
+        "Build custom C wrapper for a SimuLink model",
+        "DevOps"
+      ],
+      "technologies": [
+        ".NET Core 3.1",
+        "C",
+        "NuxtJS",
+        "Python",
+        "Docker",
+        "Azure",
+        "RabbitMQ",
+        "PostgreSQL + PostGIS"
+      ],
+      "icons": [
+        "csharp",
+        "c",
+        "python",
+        "nuxt",
+        "docker",
+        "postgresql",
+        "rabbitmq",
+        "azure"
+      ]
+    },
+    {
+      "name": "Soundstorm",
+      "logo": "soundstorm-logo.png",
+      "location": "Kaprijke (remote), BE",
+      "description": "Interactive Music Experiences",
+      "position": "Software Engineer",
+      "url": "https://soundstorm.online",
+      "startDate": "2020-05-01",
+      "endDate": "2020-07-01",
+      "summary": "Due to COVID-19 every festival during the summer of 2020 was cancelled. We wanted to digitize festivals by creating a 3D environment where people could come together to enjoy musical performances and markets in Corona times. I helped setting up the proof-of-concept for a local festival in Kaprijke. Due to my internship abroad, I stopped working on this project for now.",
+      "highlights": [
+        "API Integration",
+        "Build tokengenerator",
+        "DevOps",
+        "OSX App Signing"
+      ],
+      "technologies": ["Unity 3D", "NodeJS", "C#", "Azure"],
+      "icons": ["unity", "nodejs", "csharp", "azure"]
+    },
+    {
+      "name": "Adshot.io",
+      "logo": "adshot-logo.png",
+      "location": "Leuven, BE",
+      "description": "Influencer Marketing Platform",
+      "position": "Software Engineer",
+      "url": "https://adshot.io",
+      "startDate": "2018-07-01",
+      "endDate": "2020-07-01",
+      "summary": "",
+      "highlights": [
+        "Build new features frontend to backend",
+        "DevOps",
+        "Setup architecture",
+        "Frontend & backend rewrite"
+      ],
+      "technologies": [
+        "NuxtJS",
+        "Vuetify",
+        "NodeJS",
+        "PostgreSQL",
+        "AWS",
+        "Docker"
+      ],
+      "icons": ["nuxt", "nodejs", "postgresql", "aws", "docker", "kubernetes"]
+    },
+    {
+      "name": "Narato",
+      "logo": "narato-logo.svg",
+      "location": "Kontich, BE",
+      "description": "IT Consultancy",
+      "position": "Researcher/Developer Intern",
+      "url": "https://nara.to",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-01",
+      "summary": "Research project using deeplearning techniques to monitor and predict a chemical crystallization process based on image- and metadata. This order is sent by KdG and is commissioned by Janssen Pharmaceutica.",
+      "highlights": [
+        "Researched how to use computervision & AI to monitor a chemical crystallisation process",
+        "Build an AI model to recognize distinct crystals and another model to verify how well a crystal is forming",
+        "Build a UX friendly user interface to visualize the results and make it possible to play through the process as a video"
+      ],
+      "technologies": [
+        "Python",
+        "Keras",
+        "Tensorflow 1.14 & 2.0",
+        "VueJS + Electron"
+      ],
+      "icons": ["python", "tensorflow", "vue", "electron"]
+    },
+    {
+      "name": "Technicolor",
+      "logo": "technicolor-logo.png",
+      "location": "Edegem, BE",
+      "description": "Technicolor works with creative and technology leaders in content creation, distribution and consumption to seamlessly deliver experiences worldwide.",
+      "position": "Intern",
+      "url": "http://technicolor.com",
+      "startDate": "2015-04-01",
+      "endDate": "2015-04-15",
+      "summary": "Internship of 2 weeks with the task to make a macro in Excel (VBA) to automate data.",
+      "highlights": [
+        "Succesfully wrote a VBA Macro to automate data processing"
+      ],
+      "technologies": ["excel", "vba"],
+      "icons": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": ["Awarded 'Teacher of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Karel de Grote University College",
+      "location": "Antwerp, BE",
+      "logo": "kdg-logo.png",
+      "url": "https://www.kdg.be/",
+      "area": "Applied Computer Science with focus on Application Development",
+      "studyType": "Professional Bachelor, Cum Laude",
+      "startDate": "2015-09-21",
+      "endDate": "2020-06-30",
+      "score": "",
+      "icons": []
+    },
+    {
+      "institution": "KaSO Mortsel",
+      "location": "Mortsel, BE",
+      "logo": "kaso-logo.png",
+      "url": "https://www.kaso-mortsel.be/",
+      "area": "ICT Management",
+      "studyType": "Highschool",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-30",
+      "score": "",
+      "icons": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": ["Mpeg", "MP4", "GIF"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English and Hindi",
+      "fluency": "Fluent proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional proficiency"
+    }
+    
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": ["Team lead", "Designer"],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2021-01-29T19:00:00"
+  }
+}
