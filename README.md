@@ -1,5 +1,5 @@
 # Akshat Nahata Portfolio website
-[![Netlify Status](https://akshatnahata.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02469390-b370-4f56-8ae6-43c44fb4ac29/deploy-status)](https://akshatnahata.netlify.app)
 ## Build Setup
 
 ```bash
