@@ -6,7 +6,7 @@
     <a href="https://github.com/akshatnahata" target="_blank" rel="noreferrer noopener" aria-label="Github Icon">
       <font-awesome-icon :icon="['fab', 'github']" />
     </a>
-    <a href="https://discordapp.com/users/310137027330965514/" target="_blank" rel="noreferrer noopener" aria-label="Discord Icon">
+    <a href="https://discordapp.com/users/882506319918153730/" target="_blank" rel="noreferrer noopener" aria-label="Discord Icon">
       <font-awesome-icon :icon="['fab', 'discord']" />
     </a>
     <a href="mailto:akshatnahata05@gmail.com" rel="noreferrer noopener" aria-label="Mail Icon">
