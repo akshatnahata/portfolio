@@ -35,7 +35,7 @@
       "location": "Bangalore,KA",
       "description": "",
       "position": "Software Engineer",
-      "url": "https://skyebase.be",
+      "url": "https://www.walmart.com",
       "startDate": "2021-05-16",
       "endDate": "Present",
       "summary": "",
@@ -44,29 +44,26 @@
       "icons": ["nuxt", "typescript", "docker", "aws", "postgresql"]
     },
     {
-      "name": "Norsepower",
+      "name": "InterIIT",
       "logo": "norsepower-logo.png",
-      "location": "Helsinki (remote), FI",
+      "location": "IIT Kanpur,UP",
       "description": "",
-      "position": "Software Engineer",
-      "url": "https://norsepower.com",
-      "startDate": "2021-05-01",
+      "position": "Quant Finance Challenge",
+      "url": "",
+      "startDate": "2023-01-02",
       "endDate": "2022-01-31",
       "summary": "",
       "highlights": [
-        "Maintenance + adding new features to performance simulator",
-        "Build new application to virtualize Rotor Sails on a ship based on input & configuration parameters"
+        "Logic Building + writing code for new alphas",
+        "Build new application to virtualize trading on a quant based on input & configuration parameters"
       ],
       "technologies": [
-        ".NET Core 3.1",
+        "Quantinsti",
         "C",
-        "NuxtJS",
         "Python",
         "Git",
         "Docker",
-        "Azure",
-        "RabbitMQ",
-        "PostgreSQL + PostGIS"
+        "Azure"
       ],
       "icons": [
         "golang",
@@ -286,14 +283,14 @@
   ],
   "education": [
     {
-      "institution": "Karel de Grote University College",
-      "location": "Antwerp, BE",
-      "logo": "kdg-logo.png",
-      "url": "https://www.kdg.be/",
+      "institution": "Indian Institute of Technology, Indore",
+      "location": "Indore, MP",
+      "logo": "iiti.jpeg",
+      "url": "https://www.iiti.ac.in",
       "area": "Applied Computer Science with focus on Application Development",
-      "studyType": "Professional Bachelor, Cum Laude",
-      "startDate": "2015-09-21",
-      "endDate": "2020-06-30",
+      "studyType": "Bachelor of Technology in CE",
+      "startDate": "2020-09-21",
+      "endDate": "2024-06-30",
       "score": "",
       "icons": []
     },
