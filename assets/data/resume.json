@@ -30,17 +30,17 @@
   },
   "work": [
     {
-      "name": "SkyeBase",
-      "logo": "skyebase-logo.png",
-      "location": "Antwerp, BE",
+      "name": "Walmart Global Tech",
+      "logo": "wal.png",
+      "location": "Bangalore,KA",
       "description": "",
       "position": "Software Engineer",
       "url": "https://skyebase.be",
-      "startDate": "2021-10-18",
+      "startDate": "2021-05-16",
       "endDate": "Present",
       "summary": "",
       "highlights": ["Building a next-gen, smart, asset inspection platform"],
-      "technologies": ["NuxtJS", "AWS", "PostgreSQL"],
+      "technologies": ["NodeJS", "Azure", "ReactJS","Java"],
       "icons": ["nuxt", "typescript", "docker", "aws", "postgresql"]
     },
     {
