@@ -75,30 +75,7 @@
         "azure"
       ]
     },
-    {
-      "name": "Be-Mobile",
-      "logo": "bemobile-logo.png",
-      "location": "Melle, BE",
-      "description": "",
-      "position": "Software Engineer",
-      "url": "https://be-mobile.com/",
-      "startDate": "2021-03-15",
-      "endDate": "2021-09-30",
-      "summary": "",
-      "highlights": [
-        "Adding new major features to FlowCheck product of Be-Mobile (frontend).",
-        "Building a new golang microservice to do some datapreprocessing"
-      ],
-      "technologies": ["Vue", "Golang", "Docker", "Git", "Kafka"],
-      "icons": [
-        "vue",
-        "javascript",
-        "docker",
-        "kubernetes",
-        "jenkins",
-        "golang"
-      ]
-    },
+   
     {
       "name": "JC Software Solutions",
       "logo": "jcsoftware-logo.png",
